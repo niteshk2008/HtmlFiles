@@ -1,0 +1,26 @@
+#class{
+    background-color: rgb(14, 192, 14);
+    border: 2px solid black;
+    width: 100%;
+   padding: 10px;
+}
+.emeet{
+    text-align: center;
+    margin: 30px;
+}
+#css{
+    background-color: rgb(14, 192, 14);
+    border: 2px solid black;
+    width: 100%;
+   padding: 10px;
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+img{
+    width: 100;
+    height:80px;
+}
